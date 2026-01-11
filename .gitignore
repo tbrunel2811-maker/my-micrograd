@@ -1,0 +1,12 @@
+# Ignorer l'environnement virtuel
+venv/
+env/
+
+# Ignorer les fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers système mac
+.DS_Store
+
+
