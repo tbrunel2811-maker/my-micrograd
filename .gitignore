@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
